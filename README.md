@@ -14,6 +14,29 @@
 
 </p>
 
+# 🏗️ Solution Architecture
+
+<p align="center">
+  <img src="architecture/architecture.png" width="100%">
+</p>
+
+### Architecture Flow
+
+Client/User
+↓
+Azure AI Foundry Agent
+↓
+Planner
+↓
+Azure OpenAI GPT-5
+↓
+Knowledge Base (Azure AI Search)
+↓
+Enterprise MCP Server
+↓
+Company Policies / Holiday Calendar / Enterprise Search
+
+
 # 🚀 Enterprise Knowledge AI Agent
 
 An enterprise-grade AI assistant built using **Microsoft Azure AI Foundry**, **Azure OpenAI**, **Azure AI Search**, and **FastMCP**.
