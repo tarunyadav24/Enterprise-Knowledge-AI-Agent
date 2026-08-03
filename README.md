@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="screenshots/banner.png" alt="Enterprise Knowledge AI Agent"/>
+</p>
+
+
+
 # 🚀 Enterprise Knowledge AI Agent
 
 An enterprise-grade AI assistant built using **Microsoft Azure AI Foundry**, **Azure OpenAI**, **Azure AI Search**, and **FastMCP**.
