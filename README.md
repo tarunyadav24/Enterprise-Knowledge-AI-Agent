@@ -2,7 +2,17 @@
   <img src="screenshots/banner.png" alt="Enterprise Knowledge AI Agent"/>
 </p>
 
+<p align="center">
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI-Foundry-0078D4?style=for-the-badge&logo=microsoftazure)
+![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-412991?style=for-the-badge)
+![Azure AI Search](https://img.shields.io/badge/Azure-AI%20Search-0078D4?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/FastMCP-3.4.5-green?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
+</p>
 
 # 🚀 Enterprise Knowledge AI Agent
 
